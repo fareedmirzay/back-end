@@ -1,5 +1,5 @@
 import { Router } from "express";
-import Project from "../models/project.js";
+import Project from "../models/Project.js";
 const router = new Router();
 import Task from "../models/Task.js"
 
